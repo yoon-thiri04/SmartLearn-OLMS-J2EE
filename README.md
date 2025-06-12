@@ -1,7 +1,7 @@
-# Online LMS
+# SmartLearn 
 
 ## Overview
-This Online Learning Management System (LMS) supports four user roles: Admin, Registered User, Student, and Instructor. Each role has specific functionalities to manage and participate in courses efficiently.
+SmartLearn is an online learning platform for programming languages supports four user roles: Admin, Registered User, Student, and Instructor. Each role has specific functionalities to manage and participate in courses efficiently.
 
 ## User Roles and Functionalities
 
@@ -187,7 +187,5 @@ This Online Learning Management System (LMS) supports four user roles: Admin, Re
 
 ## Project Features to Add:
 
-- !!!!!!! Password check
 - !! Quiz - Timer
-- !! Assignment Deadline
 - !! Certification
