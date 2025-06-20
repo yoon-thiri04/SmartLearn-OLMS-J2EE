@@ -5,7 +5,7 @@ SmartLearn is an online learning platform for programming languages supports fou
 
 **Demostration Video Available on Youtube!!** 
 ```
-https://youtu.be/NKgSDgKwV-k
+https://www.youtube.com/watch?v=I0wZ2cgeuqY
 ```
 ## User Roles and Functionalities
 
