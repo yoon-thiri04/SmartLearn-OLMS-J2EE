@@ -3,7 +3,7 @@
 ## Overview
 SmartLearn is an online learning platform for programming languages supports four user roles: Admin, Registered User, Student, and Instructor. Each role has specific functionalities to manage and participate in courses efficiently. 
 
-**Demostration Video of project's main functionalities available on Youtube!! You can check it out** 
+**Demostration Video of project's main functionalities available on Youtube. You can check it out!!** 
 
 [https://www.youtube.com/watch?v=I0wZ2cgeuqY](https://www.youtube.com/watch?v=I0wZ2cgeuqY)
 
