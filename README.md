@@ -1,4 +1,4 @@
-# 🎓SmartLearn
+# SmartLearn🎓
 
 ## Overview
 SmartLearn is an online learning platform for programming languages supports four user roles: Admin, Registered User, Student, and Instructor. Each role has specific functionalities to manage and participate in courses efficiently. 
@@ -7,6 +7,7 @@ SmartLearn is an online learning platform for programming languages supports fou
 
 [https://www.youtube.com/watch?v=I0wZ2cgeuqY](https://www.youtube.com/watch?v=I0wZ2cgeuqY)
 
+<img width="1883" height="887" alt="smart" src="https://github.com/user-attachments/assets/62d4d9d6-1690-4668-a736-ac751b7972b2" />
 
 ## User Roles and Functionalities
 
